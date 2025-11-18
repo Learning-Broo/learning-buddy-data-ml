@@ -1,0 +1,68 @@
+id,name,courseMeta,courseInfo,name_lower,matched_subskills,matched_subskills_str
+14,Belajar Fundamental Aplikasi Android,"['140 Jam', '4,84', 'Menengah']","['107 Modul', '41.831 Siswa Terdaftar']",belajar fundamental aplikasi android,[],
+32,Belajar Membangun LINE Chatbot,"['20 Jam', '4,89', 'Pemula']","['26 Modul', '15.478 Siswa Terdaftar']",belajar membangun line chatbot,[],
+51,Belajar Membuat Aplikasi Android untuk Pemula,"['60 Jam', '4,87', 'Pemula']","['49 Modul', '116.344 Siswa Terdaftar']",belajar membuat aplikasi android untuk pemula,[],
+60,Memulai Pemrograman Dengan Java,"['15 Jam', '4,86', 'Dasar']","['42 Modul', '80.316 Siswa Terdaftar']",memulai pemrograman dengan java,['ML Foundation & AI Concepts'],ML Foundation & AI Concepts
+80,Memulai Pemrograman dengan Kotlin,"['50 Jam', '4,84', 'Dasar - Pemula']","['132 Modul', '59.512 Siswa Terdaftar']",memulai pemrograman dengan kotlin,['ML Foundation & AI Concepts'],ML Foundation & AI Concepts
+86,Memulai Pemrograman dengan Python,"['35 Jam', '4,80', 'Dasar']","['91 Modul', '114.158 Siswa Terdaftar']",memulai pemrograman dengan python,['ML Foundation & AI Concepts'],ML Foundation & AI Concepts
+120,Memulai Pemrograman Dengan C,"['15 Jam', '4,85', 'Dasar']","['48 Modul', '50.060 Siswa Terdaftar']",memulai pemrograman dengan c,['ML Foundation & AI Concepts'],ML Foundation & AI Concepts
+123,Belajar Dasar Pemrograman Web,"['45 Jam', '4,87', 'Dasar - Pemula']","['131 Modul', '179.110 Siswa Terdaftar']",belajar dasar pemrograman web,[],
+133,Menjadi Google Cloud Engineer,"['42 Jam', '4,87', 'Menengah']","['85 Modul', '8.729 Siswa Terdaftar']",menjadi google cloud engineer,[],
+145,Memulai Pemrograman Dengan Swift,"['40 Jam', '4,84', 'Dasar']","['95 Modul', '8.113 Siswa Terdaftar']",memulai pemrograman dengan swift,['ML Foundation & AI Concepts'],ML Foundation & AI Concepts
+153,Belajar Membangun LINE Front-end Framework (LIFF),"['15 Jam', '4,93', 'Pemula']","['28 Modul', '5.950 Siswa Terdaftar']",belajar membangun line front-end framework (liff),[],
+159,Belajar Membuat Aplikasi Flutter untuk Pemula,"['40 Jam', '4,87', 'Pemula']","['51 Modul', '21.259 Siswa Terdaftar']",belajar membuat aplikasi flutter untuk pemula,[],
+163,Belajar Fundamental Front-End Web Development,"['80 Jam', '4,88', 'Pemula - Menengah']","['114 Modul', '28.336 Siswa Terdaftar']",belajar fundamental front-end web development,[],
+165,Menjadi Android Developer Expert,"['90 Jam', '4,80', 'Profesional']","['87 Modul', '5.737 Siswa Terdaftar']",menjadi android developer expert,[],
+169,Belajar Prinsip Pemrograman SOLID,"['15 Jam', '4,87', 'Menengah']","['41 Modul', '40.888 Siswa Terdaftar']",belajar prinsip pemrograman solid,[],
+171,Belajar Membuat Aplikasi iOS untuk Pemula,"['40 Jam', '4,84', 'Pemula']","['74 Modul', '3.492 Siswa Terdaftar']",belajar membuat aplikasi ios untuk pemula,[],
+177,Belajar Dasar Visualisasi Data,"['16 Jam', '4,85', 'Dasar']","['50 Modul', '91.590 Siswa Terdaftar']",belajar dasar visualisasi data,[],
+184,Belajar Machine Learning untuk Pemula,"['30 Jam', '4,83', 'Pemula']","['56 Modul', '90.905 Siswa Terdaftar']",belajar machine learning untuk pemula,['ML Foundation & AI Concepts'],ML Foundation & AI Concepts
+185,Belajar Pengembangan Machine Learning,"['40 Jam', '4,83', 'Menengah']","['70 Modul', '8.143 Siswa Terdaftar']",belajar pengembangan machine learning,['ML Foundation & AI Concepts'],ML Foundation & AI Concepts
+191,Memulai Pemrograman dengan Dart,"['20 Jam', '4,84', 'Dasar']","['81 Modul', '23.763 Siswa Terdaftar']",memulai pemrograman dengan dart,['ML Foundation & AI Concepts'],ML Foundation & AI Concepts
+195,Belajar Fundamental Aplikasi Flutter,"['70 Jam', '4,83', 'Menengah']","['87 Modul', '4.526 Siswa Terdaftar']",belajar fundamental aplikasi flutter,[],
+199,Menjadi Flutter Developer Expert,"['85 Jam', '4,85', 'Mahir - Profesional']","['93 Modul', '2.264 Siswa Terdaftar']",menjadi flutter developer expert,[],
+202,Belajar Fundamental Aplikasi iOS,"['70 Jam', '4,83', 'Menengah']","['127 Modul', '1.353 Siswa Terdaftar']",belajar fundamental aplikasi ios,[],
+209,Menjadi iOS Developer Expert,"['70 Jam', '4,85', 'Mahir - Profesional']","['126 Modul', '960 Siswa Terdaftar']",menjadi ios developer expert,[],
+219,Menjadi Front-End Web Developer Expert,"['110 Jam', '4,89', 'Mahir - Profesional']","['213 Modul', '8.570 Siswa Terdaftar']",menjadi front-end web developer expert,[],
+251,Cloud Practitioner Essentials (Belajar Dasar AWS Cloud),"['15 Jam', '4,81', 'Dasar']","['87 Modul', '179.259 Siswa Terdaftar']",cloud practitioner essentials (belajar dasar aws cloud),[],
+256,Belajar Dasar Pemrograman JavaScript,"['45 Jam', '4,86', 'Dasar']","['116 Modul', '155.494 Siswa Terdaftar']",belajar dasar pemrograman javascript,[],
+261,Belajar Membuat Aplikasi Back-End untuk Pemula,"['45 Jam', '4,90', 'Pemula']","['114 Modul', '105.530 Siswa Terdaftar']",belajar membuat aplikasi back-end untuk pemula,[],
+266,Architecting on AWS (Membangun Arsitektur Cloud di AWS),"['40 Jam', '4,83', 'Menengah']","['170 Modul', '13.628 Siswa Terdaftar']",architecting on aws (membangun arsitektur cloud di aws),[],
+271,Belajar Fundamental Aplikasi Back-End,"['90 Jam', '4,89', 'Menengah']","['189 Modul', '6.129 Siswa Terdaftar']",belajar fundamental aplikasi back-end,[],
+276,Menjadi Back-End Developer Expert,"['82 Jam', '4,90', 'Mahir - Profesional']","['116 Modul', '3.270 Siswa Terdaftar']",menjadi back-end developer expert,[],
+292,Meniti Karier sebagai Software Developer,"['7 Jam', '4,90', 'Dasar']","['53 Modul', '19.646 Siswa Terdaftar']",meniti karier sebagai software developer,['ML Foundation & AI Concepts'],ML Foundation & AI Concepts
+302,Pengenalan ke Logika Pemrograman (Programming Logic 101),"['6 Jam', '4,91', 'Dasar']","['37 Modul', '34.651 Siswa Terdaftar']",pengenalan ke logika pemrograman (programming logic 101),[],
+313,Belajar Membuat Augmented Reality dengan Lens Studio,"['20 Jam', '4,88', 'Pemula']","['56 Modul', '14.968 Siswa Terdaftar']",belajar membuat augmented reality dengan lens studio,[],
+315,Belajar Membuat Front-End Web untuk Pemula,"['45 Jam', '4,87', 'Pemula']","['69 Modul', '100.499 Siswa Terdaftar']",belajar membuat front-end web untuk pemula,[],
+317,Belajar Dasar Git dengan GitHub,"['15 Jam', '4,89', 'Dasar']","['78 Modul', '34.701 Siswa Terdaftar']",belajar dasar git dengan github,[],
+319,Machine Learning Terapan,"['40 Jam', '4,87', 'Mahir']","['109 Modul', '4.288 Siswa Terdaftar']",machine learning terapan,['ML Foundation & AI Concepts'],ML Foundation & AI Concepts
+332,Menjadi Google Cloud Architect,"['35 Jam', '4,87', 'Menengah']","['79 Modul', '2.981 Siswa Terdaftar']",menjadi google cloud architect,[],
+335,Belajar Dasar UX Design,"['36 Jam', '4,89', 'Dasar - Pemula']","['94 Modul', '24.799 Siswa Terdaftar']",belajar dasar ux design,[],
+337,Belajar Dasar Google Cloud,"['12 Jam', '4,88', 'Dasar']","['78 Modul', '8.531 Siswa Terdaftar']",belajar dasar google cloud,[],
+342,Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud,"['45 Jam', '4,87', 'Pemula']","['108 Modul', '7.505 Siswa Terdaftar']",belajar membuat aplikasi back-end untuk pemula dengan google cloud,[],
+352,Belajar Pengembangan Aplikasi Android Intermediate,"['150 Jam', '4,82', 'Mahir']","['115 Modul', '6.955 Siswa Terdaftar']",belajar pengembangan aplikasi android intermediate,[],
+382,Belajar Dasar-Dasar DevOps,"['15 Jam', '4,87', 'Dasar']","['38 Modul', '45.149 Siswa Terdaftar']",belajar dasar-dasar devops,[],
+387,Belajar Jaringan Komputer untuk Pemula,"['25 Jam', '4,90', 'Pemula']","['62 Modul', '43.592 Siswa Terdaftar']",belajar jaringan komputer untuk pemula,[],
+403,Belajar Membuat Aplikasi Web dengan React,"['35 Jam', '4,90', 'Pemula']","['56 Modul', '17.391 Siswa Terdaftar']",belajar membuat aplikasi web dengan react,[],
+413,Belajar Fundamental Aplikasi Web dengan React,"['55 Jam', '4,92', 'Menengah']","['66 Modul', '2.846 Siswa Terdaftar']",belajar fundamental aplikasi web dengan react,[],
+418,Menjadi React Web Developer Expert,"['70 Jam', '4,91', 'Mahir']","['103 Modul', '1.879 Siswa Terdaftar']",menjadi react web developer expert,[],
+423,Menjadi Linux System Administrator,"['25 Jam', '4,91', 'Menengah']","['64 Modul', '3.023 Siswa Terdaftar']",menjadi linux system administrator,[],
+428,Belajar Implementasi CI/CD,"['30 Jam', '4,87', 'Menengah']","['64 Modul', '2.584 Siswa Terdaftar']",belajar implementasi ci/cd,['Deployment & Production ML'],Deployment & Production ML
+433,Belajar Membangun Arsitektur Microservices,"['60 Jam', '4,86', 'Mahir']","['94 Modul', '1.438 Siswa Terdaftar']",belajar membangun arsitektur microservices,[],
+443,Machine Learning Operations (MLOps),"['45 Jam', '4,50', 'Mahir']","['72 Modul', '2.527 Siswa Terdaftar']",machine learning operations (mlops),['ML Foundation & AI Concepts'],ML Foundation & AI Concepts
+445,Belajar Membuat Aplikasi Android dengan Jetpack Compose,"['50 Jam', '4,85', 'Mahir']","['80 Modul', '3.492 Siswa Terdaftar']",belajar membuat aplikasi android dengan jetpack compose,[],
+480,Belajar Pengembangan Aplikasi Flutter Intermediate,"['80 Jam', '4,84', 'Mahir']","['93 Modul', '1.076 Siswa Terdaftar']",belajar pengembangan aplikasi flutter intermediate,[],
+555,Belajar Analisis Data dengan Python,"['30 Jam', '4,80', 'Pemula']","['61 Modul', '29.607 Siswa Terdaftar']",belajar analisis data dengan python,[],
+565,Belajar Tools Front-End Web Intermediate,"['65 Jam', '4,83', 'Mahir']","['131 Modul', '1.620 Siswa Terdaftar']",belajar tools front-end web intermediate,[],
+570,Belajar Dasar Manajemen Proyek,"['11 Jam', '4,87', 'Dasar']","['38 Modul', '16.351 Siswa Terdaftar']",belajar dasar manajemen proyek,[],
+580,Belajar Pemrograman Fungsional dengan Haskell,"['20 Jam', '4,91', 'Pemula']","['65 Modul', '509 Siswa Terdaftar']",belajar pemrograman fungsional dengan haskell,[],
+590,Belajar Penerapan Data Science,"['40 Jam', '4,84', 'Mahir']","['72 Modul', '493 Siswa Terdaftar']",belajar penerapan data science,[],
+600,Belajar Dasar Structured Query Language (SQL),"['11 Jam', '4,87', 'Dasar']","['44 Modul', '44.588 Siswa Terdaftar']",belajar dasar structured query language (sql),[],
+605,Memulai Pemrograman dengan Haskell,"['20 Jam', '4,87', 'Dasar']","['61 Modul', '7.366 Siswa Terdaftar']",memulai pemrograman dengan haskell,['ML Foundation & AI Concepts'],ML Foundation & AI Concepts
+610,Menjadi Node.js Application Developer,"['57 Jam', '4,80', 'Menengah - Kompetensi Sertifikasi']","['155 Modul', '646 Siswa Terdaftar']",menjadi node.js application developer,[],
+615,Belajar Dasar Data Science,"['11 Jam', '4,83', 'Dasar']","['50 Modul', '27.052 Siswa Terdaftar']",belajar dasar data science,[],
+620,Belajar Pemrograman Prosedural dengan Python,"['33 Jam', '4,83', 'Pemula']","['80 Modul', '3.726 Siswa Terdaftar']",belajar pemrograman prosedural dengan python,[],
+653,Belajar Dasar AI,"['10 Jam', '4,89', 'Dasar']","['39 Modul', '5.457 Siswa Terdaftar']",belajar dasar ai,['ML Foundation & AI Concepts'],ML Foundation & AI Concepts
+658,Belajar Penerapan Machine Learning dengan Google Cloud,"['40 Jam', '4,81', 'Mahir']","['54 Modul', '1.525 Siswa Terdaftar']",belajar penerapan machine learning dengan google cloud,['ML Foundation & AI Concepts'],ML Foundation & AI Concepts
+663,Belajar Penerapan Machine Learning untuk Android,"['60 Jam', '4,89', 'Mahir']","['60 Modul', '1.551 Siswa Terdaftar']",belajar penerapan machine learning untuk android,['ML Foundation & AI Concepts'],ML Foundation & AI Concepts
+237,Memulai Dasar Pemrograman untuk Menjadi Pengembang Software,"['9 Jam', '4,88', 'Dasar']","['73 Modul', '45.020 Siswa Terdaftar']",memulai dasar pemrograman untuk menjadi pengembang software,['ML Foundation & AI Concepts'],ML Foundation & AI Concepts
